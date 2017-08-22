@@ -1,0 +1,31 @@
+Obrigado por comprar na PHP FÊNIX
+
+A Instalação é muito simples, Siga os Passos:
+
+1- Crie um banco de dados no seu servidor;
+
+2- Importe o Arquivo BANCO-DE-DADOS.SQL no seu servidor;
+
+3- Acesse abra o arquivo sysfrm/config.php 
+e encontre as seguintes linhas:
+
+$db_host	= 'localhost';
+$db_user        = '';
+$db_password	= '';
+$db_name	= '';
+define('APP_URL', 'http://seudominio.com.br/');
+
+e Preencha com os dados do servidor de seu banco de dados!
+
+
+***** ACESSO ADMINISTRADOR ****
+
+Login: contato@phpfenix.com.br
+Senha: admin123
+
+
+****** ACESSO USUARIO TESTE ****
+
+Login: teste@teste.com.br
+Senha: admin123
+
